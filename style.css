@@ -1,0 +1,47 @@
+html, body {
+    padding: 0;
+    margin: 0;
+}
+
+h1 {
+    font-size: 30px;
+   text-align: justify;
+   text-align: center;
+}
+
+h2 {
+
+    color: rgb(185, 144, 238);
+}
+.container{
+    padding-left: 80px;
+    padding-right: 80px;
+    margin: 0 auto;
+    box-sizing: border-box;
+   text-align: center;
+}
+
+aside {
+    float: right;
+    width: 100px;
+    border: solid 5px lightcoral;
+    text-align: justify;
+    margin-left: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-bottom: 20px;
+}
+
+.Zurich-images {
+ display: block;
+  float: left;
+  margin: 10px;
+  background-position: center;
+  object-fit: contain;
+}
+
+.image {
+
+ height: 280px;
+  width: 280px;
+}
